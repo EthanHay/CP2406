@@ -22,6 +22,6 @@ public class NumbersDemo {
         System.out.println("Number plus five: " + (a+5));
     }
     public static void displayNumberSquared(int a) {
-        System.out.println("Number squared: " + (a * a));
+        System.out.println("Number squared: " + (a * a) + "\n");
     }
 }
